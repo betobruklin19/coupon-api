@@ -66,5 +66,5 @@ Swagger: http://localhost:8080/swagger-ui.html
 
 ## Contato
 
-**Nome:** _[seu nome]_  
-**E-mail:** _[seu e-mail]_
+**Nome:** Roberto S Santos  
+**E-mail:** robertosilva1991@outlook.com
