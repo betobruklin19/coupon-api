@@ -2,7 +2,7 @@
 
 ## Repositório
 
-**URL:** _[inserir link do GitHub público aqui]_
+**URL:** https://github.com/betobruklin19/coupon-api
 
 ---
 
